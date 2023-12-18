@@ -1,3 +1,4 @@
 .env
 .*.env
 fine_tuning.jsonl
+__pycache__
